@@ -1,4 +1,4 @@
-University Management Project
+<h2 align="left"> University Management Project </h1>
 <p align="left">This is a Semester Project for Coding Purpose.</p
 
 
